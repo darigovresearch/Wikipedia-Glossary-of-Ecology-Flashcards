@@ -1,4 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="abiotic_component" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Abiotic_component" title="Abiotic component">abiotic component</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -79,7 +78,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="bacteria" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Bacteria" title="Bacteria">bacteria</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -178,7 +176,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="camouflage" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Camouflage" title="Camouflage">camouflage</a></dfn></dt>
 <dd class="glossary">An inconspicuous appearance adopted by an organism in order to deceive possible <a href="/wiki/Predator" class="mw-redirect" title="Predator">predators</a> or <a href="/wiki/Prey" class="mw-redirect" title="Prey">prey</a>.</dd>
@@ -283,7 +280,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="deciduous_broadleaf_forest" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Temperate_deciduous_forest" title="Temperate deciduous forest">deciduous broadleaf forest</a></dfn></dt>
 <dd class="glossary">Any forest situated in a <a href="/wiki/Temperate_zone" class="mw-redirect" title="Temperate zone">temperate zone</a> whose trees shed their leaves during the <a href="/wiki/Winter" title="Winter">cold season</a>.</dd>
@@ -367,7 +363,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="earth_science" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Earth_science" title="Earth science">earth science</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -544,7 +539,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="fall_overturn" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Bottom_water#Lake_hydrography" title="Bottom water">fall overturn</a></dfn></dt>
 <dd class="glossary">The mixing (or "turning over") of lake water occurring in <a href="/wiki/Autumn" title="Autumn">autumn</a>, facilitating its <a href="/wiki/Oxygenation_(environmental)" title="Oxygenation (environmental)">re-oxygenation</a>.</dd>
@@ -625,7 +619,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="gallery_forest" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gallery_forest" title="Gallery forest">gallery forest</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -694,7 +687,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="habitat"></span><dt class="glossary" id="habitat" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Habitat_(ecology)" class="mw-redirect" title="Habitat (ecology)">habitat</a></dfn></dt>
 <dd class="glossary">A specific <a href="/wiki/Environment_(biophysical)" class="mw-redirect" title="Environment (biophysical)">ecological area</a> that is inhabited by specific plant and animal species.</dd>
@@ -775,7 +767,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="illegitimate_receiver" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Illegitimate_receiver" title="Illegitimate receiver">illegitimate receiver</a></dfn></dt>
 <dd class="glossary">An organism that intercepts a signal intended for another organism, to the <a href="/wiki/Fitness_(biology)" title="Fitness (biology)">fitness</a> detriment of either the signaler or the legitimate receiver of the signal.</dd>
@@ -841,7 +832,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="jungle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jungle" title="Jungle">jungle</a></dfn></dt>
 <dd class="glossary">A dense, wet, humid forest, often tropical, which supports a large variety of wild plant and animal species.</dd>
@@ -880,7 +870,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="k-selected_species" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/K-selected_species" class="mw-redirect" title="K-selected species">k-selected species</a></dfn></dt>
 <dd class="glossary">A species that forms a group of strong competitors in a crowded environment and that has fewer but stronger offspring.</dd>
@@ -925,7 +914,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="la_niña" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/La_Ni%C3%B1a" title="La Niña">La Niña</a></dfn></dt>
 <dd class="glossary">The counterpart to <a href="/wiki/El_Ni%C3%B1o" title="El Niño">El Niño</a>.</dd>
@@ -1003,7 +991,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <span id="macroecology"></span><dt class="glossary" id="macroecology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Macroecology" title="Macroecology">macroecology</a></dfn></dt>
 <dd class="glossary">A branch of ecology which examines ecological phenomena at the largest possible scale. Compare with <a href="#microecology">microecology</a>.</dd>
@@ -1087,7 +1074,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="natural_resource" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Natural_resource" title="Natural resource">natural resource</a></dfn></dt>
 <dd class="glossary">Natural <a href="/wiki/Biotic_component" title="Biotic component">biotic</a> and <a href="/wiki/Abiotic_component" title="Abiotic component">abiotic</a> resources combined.</dd>
@@ -1171,7 +1157,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ocean" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ocean" title="Ocean">ocean</a></dfn></dt>
 <dd class="glossary">A vast body of <a href="/wiki/Seawater" title="Seawater">salt water</a>. Oceans cover almost 75% of the Earth's surface.</dd>
@@ -1216,7 +1201,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="paleoecology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Paleoecology" title="Paleoecology">paleoecology</a></dfn></dt>
 <dd class="glossary">A branch of ecology which uses data from <a href="/wiki/Fossil" title="Fossil">fossils</a> to reconstruct ecosystems of the past.</dd>
@@ -1345,7 +1329,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="quadrat" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quadrat" title="Quadrat">quadrat</a></dfn></dt>
 <dd class="glossary">A rectangular plot of land extensively studied for its ecology. Often abbreviated as <i>quad</i>.</dd>
@@ -1384,7 +1367,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="rain_shadow" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Rain_shadow" title="Rain shadow">rain shadow</a></dfn></dt>
 <dd class="glossary"><a href="/wiki/Arid" title="Arid">Arid</a> or <a href="/wiki/Semi-arid_climate" title="Semi-arid climate">semi-arid</a> <a href="/wiki/Climate" title="Climate">climatical conditions</a> of an area due to its position leeward of a <a href="/wiki/Mountain_range" title="Mountain range">mountain range</a>.</dd>
@@ -1450,7 +1432,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="sand" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Sand" title="Sand">sand</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1582,7 +1563,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="taylor&#39;s_law" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Taylor%27s_law" title="Taylor&#39;s law">Taylor's law</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1663,7 +1643,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="umbrella_species" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Umbrella_species" title="Umbrella species">umbrella species</a></dfn></dt>
 <dd class="glossary">A species selected for making <a href="/wiki/Wildlife_conservation" title="Wildlife conservation">conservation</a>-related decisions because protecting it indirectly protects the many other species that make up the ecological <a href="#community">community</a> of its habitat. Compare <a href="#flagship_species">flagship species</a>.</dd>
@@ -1711,7 +1690,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="vegetation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vegetation" title="Vegetation">vegetation</a></dfn></dt>
 <dd class="glossary"><a href="/wiki/Ground_cover" class="mw-redirect" title="Ground cover">Ground cover</a> provided by plants.</dd>
@@ -1765,7 +1743,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="warning_coloration" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Aposematism" title="Aposematism">warning coloration</a></dfn></dt>
 <dd class="glossary">A warning signal that a prey species uses to advertise its unprofitability to potential predator species. Also called <i>aposematism</i>.</dd>
@@ -1843,7 +1820,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=24" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="xeric" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Xeric" class="mw-redirect" title="Xeric">xeric</a></dfn></dt>
 <dd class="glossary">Extremely dry, as of a landscape or habitat.</dd>
@@ -1858,13 +1834,11 @@
 <dd class="glossary">Feeding on wood, as of an organism.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=25" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="yellow_rain" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Yellow_rain" title="Yellow rain">yellow rain</a></dfn></dt>
 <dd class="glossary">A powdery, poisonous, yellow substance reported dropping from the air in the eastern parts of China and Asia and found to be the excrement of wild honeybees contaminated by a <a href="/wiki/Fungus" title="Fungus">fungal</a> toxin.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ecology&amp;action=edit&amp;section=26" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="zooplankton" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zooplankton" title="Zooplankton">zooplankton</a></dfn></dt>
 <dd class="glossary"></dd>
