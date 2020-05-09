@@ -1,5 +1,6 @@
 "<dt class=""glossary"" id=""abiotic_component"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Abiotic_component"" title=""Abiotic component"">abiotic component</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""adaptive_behavior"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Adaptive_behavior_(ecology)"" title=""Adaptive behavior (ecology)"">adaptive behavior</a></dfn></dt>"|"
 <dd class=""glossary"">In <a href=""#behavioral_ecology"">behavioral ecology</a>, any behavior which contributes to an individual's <a href=""https://en.wikipedia.org/wiki/Sexual_reproduction"" title=""Sexual reproduction"">reproductive</a> success and is thus subject to the forces of <a href=""https://en.wikipedia.org/wiki/Natural_selection"" title=""Natural selection"">natural selection</a>.</dd>
@@ -11,16 +12,19 @@
 <dd class=""glossary"">A concept in <a href=""#population_ecology"">population ecology</a> that describes the positive relationship between the size of a given population and its growth.</dd>
 "
 "<dt class=""glossary"" id=""animal"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Animal"" title=""Animal"">animal</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""animal_behaviour"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ethology"" title=""Ethology"">animal behaviour</a></dfn></dt>"|"
 <dd class=""glossary"">See <a href=""#ethology"">ethology</a>.</dd>
 "
 "<dt class=""glossary"" id=""animal_communication"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Animal_communication"" title=""Animal communication"">animal communication</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""animal_migration"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Animal_migration"" title=""Animal migration"">animal migration</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""applied_ecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Applied_ecology"" title=""Applied ecology"">applied ecology</a></dfn></dt>"|"
 <dd class=""glossary"">A branch of ecology which uses ecological principles and insights to solve environment-related problems. It includes <a href=""#agroecology"">agroecology</a> and <a href=""#conservation_biology"">conservation biology</a>.</dd>
@@ -38,19 +42,22 @@
 <dd class=""glossary"">A major sub-field of ecology which studies the dynamics of populations and the ways in which they interact with the environment. Also called <i><a href=""#population_ecology"">population ecology</a></i>.</dd>
 "
 "<dt class=""glossary"" id=""autopoïesis"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Autopo%C3%AFesis"" class=""mw-redirect"" title=""Autopoïesis"">autopoïesis</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""autotroph"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Autotroph"" title=""Autotroph"">autotroph</a></dfn></dt>"|"
 <dd class=""glossary"">See <a href=""#producer"">producer</a>.</dd>
 "
 "<dt class=""glossary"" id=""bacteria"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bacteria"" title=""Bacteria"">bacteria</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""behavioral_ecology""></span><dt class=""glossary"" id=""behavioral_ecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Behavioral_ecology"" title=""Behavioral ecology"">behavioral ecology</a></dfn></dt>"|"
 <dd class=""glossary"">A branch of ecology which studies the ecological and <a href=""https://en.wikipedia.org/wiki/Evolution"" title=""Evolution"">evolutionary</a> basis of <a href=""https://en.wikipedia.org/wiki/Animal_behavior"" class=""mw-redirect"" title=""Animal behavior"">animal behavior</a>, mainly at the level of the individual.</dd>
 "
 "<dt class=""glossary"" id=""benthos"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Benthos"" title=""Benthos"">benthos</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""biodegradable"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Biodegradable"" class=""mw-redirect"" title=""Biodegradable"">biodegradable</a></dfn></dt>"|"
 <dd class=""glossary"">Capable of decaying through the action of living organisms.</dd>
@@ -80,7 +87,8 @@
 <dd class=""glossary"">The increase in concentration of a <a href=""https://en.wikipedia.org/wiki/Chemical_substance"" title=""Chemical substance"">chemical substance</a> in the <a href=""https://en.wikipedia.org/wiki/Tissue_(biology)"" title=""Tissue (biology)"">tissues</a> of organisms comprising successively higher levels in a <a href=""https://en.wikipedia.org/wiki/Food_chain"" title=""Food chain"">food chain</a>.</dd>
 "
 "<dt class=""glossary"" id=""biological_organization"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Biological_organization"" class=""mw-redirect"" title=""Biological organization"">biological organization</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""biomass"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Biomass_(ecology)"" title=""Biomass (ecology)"">biomass</a></dfn></dt>"|"
 <dd class=""glossary"">The sum of all living organisms in a given area.</dd>
@@ -98,7 +106,8 @@
 <dd class=""glossary"">The total collection of organisms of a <a href=""https://en.wikipedia.org/wiki/Geographic_region"" class=""mw-redirect"" title=""Geographic region"">geographic region</a> or a time period.</dd>
 "
 "<dt class=""glossary"" id=""biotic_component"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Biotic_component"" title=""Biotic component"">biotic component</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""biotic_potential"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Biotic_potential"" title=""Biotic potential"">biotic potential</a></dfn></dt>"|"
 <dd class=""glossary"">The maximum achievable rate of increase of a population in a given area under ideal conditions.</dd>
@@ -110,7 +119,8 @@
 <dd class=""glossary"">An inconspicuous appearance adopted by an organism in order to deceive possible <a href=""https://en.wikipedia.org/wiki/Predator"" class=""mw-redirect"" title=""Predator"">predators</a> or <a href=""https://en.wikipedia.org/wiki/Prey"" class=""mw-redirect"" title=""Prey"">prey</a>.</dd>
 "
 "<dt class=""glossary"" id=""canopy"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Canopy_(biology)"" title=""Canopy (biology)"">canopy</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""carbon_cycle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Carbon_cycle"" title=""Carbon cycle"">carbon cycle</a></dfn></dt>"|"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Biogeochemical_cycle"" title=""Biogeochemical cycle"">biogeochemical cycle</a> by which <a href=""https://en.wikipedia.org/wiki/Carbon"" title=""Carbon"">carbon</a> is exchanged between the <a href=""https://en.wikipedia.org/wiki/Biosphere"" title=""Biosphere"">biosphere</a>, <a href=""https://en.wikipedia.org/wiki/Pedosphere"" title=""Pedosphere"">pedosphere</a>, <a href=""https://en.wikipedia.org/wiki/Geosphere"" title=""Geosphere"">geosphere</a>, <a href=""https://en.wikipedia.org/wiki/Hydrosphere"" title=""Hydrosphere"">hydrosphere</a>, and earth's <a href=""https://en.wikipedia.org/wiki/Atmosphere"" title=""Atmosphere"">atmosphere</a>.</dd>
@@ -131,13 +141,15 @@
 <dd class=""glossary"">Change in weather conditions such as <a href=""https://en.wikipedia.org/wiki/Cloud_cover"" title=""Cloud cover"">cloud cover</a>, <a href=""https://en.wikipedia.org/wiki/Wind_speed"" title=""Wind speed"">wind speed</a>, <a href=""https://en.wikipedia.org/wiki/Temperature"" title=""Temperature"">temperature</a>, <a href=""https://en.wikipedia.org/wiki/Rainfall"" class=""mw-redirect"" title=""Rainfall"">rainfall</a> or <a href=""https://en.wikipedia.org/wiki/Humidity"" title=""Humidity"">humidity</a> in a specific region.</dd>
 "
 "<dt class=""glossary"" id=""climate_change_and_ecosystems"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Climate_change_and_ecosystems"" title=""Climate change and ecosystems"">climate change and ecosystems</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""climax_community"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Climax_community"" title=""Climax community"">climax community</a></dfn></dt>"|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Community_(ecology)"" title=""Community (ecology)"">community</a> of <a href=""https://en.wikipedia.org/wiki/Plant"" title=""Plant"">plants</a> and <a href=""https://en.wikipedia.org/wiki/Animal"" title=""Animal"">animals</a> that has reached a stable state, occurring when the different species are best <a href=""https://en.wikipedia.org/wiki/Adaptation"" title=""Adaptation"">adapted</a> to average conditions in a given area.</dd>
 "
 "<dt class=""glossary"" id=""colony"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Colony_(biology)"" title=""Colony (biology)"">colony</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""commensalism"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Commensalism"" title=""Commensalism"">commensalism</a></dfn></dt>"|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Symbiotic"" class=""mw-redirect"" title=""Symbiotic"">symbiotic</a> relationship between two organisms of different species, in which one of the organisms benefits while the other remains unaffected.</dd>
@@ -167,7 +179,8 @@
 <dd class=""glossary"">The process by which organisms work together for mutual benefit.</dd>
 "
 "<dt class=""glossary"" id=""coral_reef"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Coral_reef"" title=""Coral reef"">coral reef</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""courtship_display"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Courtship_display"" title=""Courtship display"">courtship display</a></dfn></dt>"|"
 <dd class=""glossary"">Ritual social behavior between possible mates.</dd>
@@ -188,7 +201,8 @@
 <dd class=""glossary"">Any <a href=""https://en.wikipedia.org/wiki/Community_(ecology)"" title=""Community (ecology)"">community</a> of organisms linked by a shared habitat in the <a href=""https://en.wikipedia.org/wiki/Deep_sea"" title=""Deep sea"">deep sea</a>.</dd>
 "
 "<dt class=""glossary"" id=""deforestation"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Deforestation"" title=""Deforestation"">deforestation</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""denitrification""></span><dt class=""glossary"" id=""denitrification"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Denitrification"" title=""Denitrification"">denitrification</a></dfn></dt>"|"
 <dd class=""glossary"">The breakdown of <a href=""https://en.wikipedia.org/wiki/Nitrate"" title=""Nitrate"">nitrates</a> (mostly in the soil), by <a href=""https://en.wikipedia.org/wiki/Anaerobic_digestion"" title=""Anaerobic digestion"">anaerobic</a> <a href=""https://en.wikipedia.org/wiki/Bacteria"" title=""Bacteria"">bacteria</a>, into their constituent <a href=""https://en.wikipedia.org/wiki/Chemical_element"" title=""Chemical element"">chemical elements</a>: <a href=""https://en.wikipedia.org/wiki/Nitrogen"" title=""Nitrogen"">nitrogen</a> and <a href=""https://en.wikipedia.org/wiki/Oxygen"" title=""Oxygen"">oxygen</a>.</dd>
@@ -212,7 +226,8 @@
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Heterotroph"" title=""Heterotroph"">Heterotrophs</a> which <a href=""https://en.wikipedia.org/wiki/Biodegradation"" title=""Biodegradation"">consume</a> decomposing bits of <a href=""https://en.wikipedia.org/wiki/Organic_matter"" title=""Organic matter"">organic matter</a>, such as <a href=""https://en.wikipedia.org/wiki/Plant_litter"" title=""Plant litter"">plant litter</a>.</dd>
 "
 "<span id=""disturbance""></span><dt class=""glossary"" id=""disturbance"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Disturbance_(ecology)"" title=""Disturbance (ecology)"">disturbance</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""dominance_hierarchy"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Dominance_hierarchy"" title=""Dominance hierarchy"">dominance hierarchy</a></dfn></dt>"|"
 <dd class=""glossary"">The organization of individual organisms into groups with a social structure.</dd>
@@ -221,25 +236,31 @@
 <dd class=""glossary"">A species which characterizes and dominates an <a href=""https://en.wikipedia.org/wiki/Ecological_community"" class=""mw-redirect"" title=""Ecological community"">ecological community</a> as measured by its <a href=""https://en.wikipedia.org/wiki/Primary_productivity"" class=""mw-redirect"" title=""Primary productivity"">primary productivity</a> or <a href=""https://en.wikipedia.org/wiki/Biomass"" title=""Biomass"">biomass</a>.</dd>
 "
 "<dt class=""glossary"" id=""duck_weed"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Duck_weed"" class=""mw-redirect"" title=""Duck weed"">duck weed</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""earth_science"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Earth_science"" title=""Earth science"">earth science</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""earth_system_science"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Earth_system_science"" title=""Earth system science"">earth system science</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""ecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecology"" title=""Ecology"">ecology</a></dfn></dt>"|"
 <dd class=""glossary"">The scientific study of interactions between living organisms and their environment.</dd>
 "
 "<dt class=""glossary"" id=""ecological_economics"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecological_economics"" title=""Ecological economics"">ecological economics</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""ecological_extinction"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecological_extinction"" title=""Ecological extinction"">ecological extinction</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""ecological_land_classification"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecological_land_classification"" title=""Ecological land classification"">ecological land classification</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""ecological_literacy"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecological_literacy"" title=""Ecological literacy"">ecological literacy</a></dfn></dt>"|"
 <dd class=""glossary"">The ability to understand the <a href=""https://en.wikipedia.org/wiki/Nature"" title=""Nature"">natural systems</a> that make life on Earth possible.</dd>
@@ -251,13 +272,15 @@
 <dd class=""glossary"">ecological processes that operate on a species' inherited traits without reference to mating or secondary sex characteristics.</dd>
 "
 "<dt class=""glossary"" id=""ecological_productivity"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Climate_change_and_ecosystems#Ecological_Productivity"" title=""Climate change and ecosystems"">ecological productivity</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""ecological_succession""></span><dt class=""glossary"" id=""ecological_succession"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecological_succession"" title=""Ecological succession"">ecological succession</a></dfn></dt>"|"
 <dd class=""glossary"">The change in the species structure of an <a href=""https://en.wikipedia.org/wiki/Community_(ecology)"" title=""Community (ecology)"">ecological community</a> over time.</dd>
 "
 "<dt class=""glossary"" id=""ecological_threshold"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecological_threshold"" title=""Ecological threshold"">ecological threshold</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""ecophagy"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecophagy"" title=""Ecophagy"">ecophagy</a></dfn></dt>"|"
 <dd class=""glossary"">The destruction of an ecosystem.</dd>
@@ -281,10 +304,12 @@
 <dd class=""glossary"">A branch of ecology which studies how flows of energy and matter interact with <a href=""https://en.wikipedia.org/wiki/Biotic_component"" title=""Biotic component"">biotic elements</a> of ecosystems.</dd>
 "
 "<dt class=""glossary"" id=""ecosystem_engineer"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecosystem_engineer"" title=""Ecosystem engineer"">ecosystem engineer</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""ecosystem_functional_type"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Ecosystem_functional_type&amp;action=edit&amp;redlink=1"" class=""new"" title=""Ecosystem functional type (page does not exist)"">ecosystem functional type</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""ecosystem_modeling"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecosystem_modeling"" class=""mw-redirect"" title=""Ecosystem modeling"">ecosystem modeling</a></dfn></dt>"|"
 <dd class=""glossary"">The use of mathematics, computer programs and models to understand and predict ecosystem behavior.</dd>
@@ -296,7 +321,8 @@
 <dd class=""glossary"">A transition area between two adjacent but different <a href=""https://en.wikipedia.org/wiki/Landscape"" title=""Landscape"">landscape</a> patches.</dd>
 "
 "<dt class=""glossary"" id=""ecotope"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecotope"" title=""Ecotope"">ecotope</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""ecotoxicology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Ecotoxicology"" title=""Ecotoxicology"">ecotoxicology</a></dfn></dt>"|"
 <dd class=""glossary"">The study of the ecological role of toxic chemicals (often <a href=""https://en.wikipedia.org/wiki/Pollutant"" title=""Pollutant"">pollutants</a>, but also naturally occurring compounds).</dd>
@@ -320,10 +346,12 @@
 <dd class=""glossary"">The biotic and abiotic surroundings of an organism or population, and the chemical interactions between these factors that influence their survival, development, and evolution. An environment can vary in scale from microscopic to global.</dd>
 "
 "<dt class=""glossary"" id=""environmental_degradation"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Environmental_degradation"" title=""Environmental degradation"">environmental degradation</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""environmental_science"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Environmental_science"" title=""Environmental science"">environmental science</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""environmental_restoration"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Environmental_restoration"" title=""Environmental restoration"">environmental restoration</a></dfn></dt>"|"
 <dd class=""glossary"">undoing the damage caused to an area by human activity or by <a href=""https://en.wikipedia.org/wiki/Nature"" title=""Nature"">natural</a> disasters.</dd>
@@ -332,7 +360,8 @@
 <dd class=""glossary"">is the concept of things being transitory, existing only briefly.</dd>
 "
 "<span id=""erosion""></span><dt class=""glossary"" id=""erosion"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Erosion"" title=""Erosion"">erosion</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""estuary"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Estuary"" title=""Estuary"">estuary</a></dfn></dt>"|"
 <dd class=""glossary"">A body of <a href=""https://en.wikipedia.org/wiki/Coast"" title=""Coast"">coastal</a> water, attached to both ocean and river, often coloured black as a result of <a href=""https://en.wikipedia.org/wiki/Silt"" title=""Silt"">silt</a> and <a href=""https://en.wikipedia.org/wiki/Sediment"" title=""Sediment"">sediment</a> being carried by the latter.</dd>
@@ -356,7 +385,8 @@
 <dd class=""glossary"">The termination of an organism or of a <a href=""https://en.wikipedia.org/wiki/Taxon"" title=""Taxon"">taxon</a>, usually a species, which occurs when the <a href=""https://en.wikipedia.org/wiki/Endling"" title=""Endling"">last individual organism</a> of the taxon dies. Compare <a href=""#functional_extinction"">functional extinction</a>.</dd>
 "
 "<dt class=""glossary"" id=""extinction_vortex"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Extinction_vortex"" title=""Extinction vortex"">extinction vortex</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""extreme_environment"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Extreme_environment"" title=""Extreme environment"">extreme environment</a></dfn></dt>"|"
 <dd class=""glossary"">An environment in which few living organisms can survive.</dd>
@@ -395,7 +425,8 @@
 <dd class=""glossary"">The accumulation of random genetic changes in an isolated population.</dd>
 "
 "<dt class=""glossary"" id=""freshwater_biology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Freshwater_biology"" title=""Freshwater biology"">freshwater biology</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""functional_ecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Functional_ecology"" title=""Functional ecology"">functional ecology</a></dfn></dt>"|"
 <dd class=""glossary"">A branch of ecology which studies the roles, or functions, that certain species (or groups of species) play in an ecosystem.</dd>
@@ -410,16 +441,19 @@
 <dd class=""glossary"">Along with <a href=""https://en.wikipedia.org/wiki/Bacteria"" title=""Bacteria"">bacteria</a>, fungi are the major <a href=""#decomposer"">decomposers</a> in most terrestrial (and some aquatic) ecosystems and therefore play a crucial role in the <a href=""#nutrient_cycle"">nutrient cycle</a>.</dd>
 "
 "<dt class=""glossary"" id=""gallery_forest"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Gallery_forest"" title=""Gallery forest"">gallery forest</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""genetic_bottleneck"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Genetic_bottleneck"" class=""mw-redirect"" title=""Genetic bottleneck"">genetic bottleneck</a></dfn></dt>"|"
 <dd class=""glossary"">An <a href=""https://en.wikipedia.org/wiki/Evolution"" title=""Evolution"">evolutionary</a> event in which a significant percentage of a population or species is killed or otherwise prevented from reproducing.</dd>
 "
 "<dt class=""glossary"" id=""geodiversity"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Geodiversity"" title=""Geodiversity"">geodiversity</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""geographical_zone"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Geographical_zone"" title=""Geographical zone"">geographical zone</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""global_ecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Macroecology"" title=""Macroecology"">global ecology</a></dfn></dt>"|"
 <dd class=""glossary"">See <a href=""#macroecology"">macroecology</a>.</dd>
@@ -470,7 +504,8 @@
 <dd class=""glossary"">A branch of ecology that studies the relationships between <a href=""https://en.wikipedia.org/wiki/Human"" title=""Human"">humans</a> and their <a href=""https://en.wikipedia.org/wiki/Natural_environment"" title=""Natural environment"">natural</a>, <a href=""https://en.wikipedia.org/wiki/Social_environment"" title=""Social environment"">social</a> and <a href=""https://en.wikipedia.org/wiki/Built_environment"" title=""Built environment"">built environments</a>.</dd>
 "
 "<dt class=""glossary"" id=""humus"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Humus"" title=""Humus"">humus</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""hydrologic_cycle""></span><dt class=""glossary"" id=""hydrologic_cycle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Hydrologic_cycle"" class=""mw-redirect"" title=""Hydrologic cycle"">hydrologic cycle</a></dfn></dt>"|"
 <dd class=""glossary"">The cycle or process of <a href=""https://en.wikipedia.org/wiki/Evaporation"" title=""Evaporation"">evaporation</a> and <a href=""https://en.wikipedia.org/wiki/Condensation"" title=""Condensation"">condensation</a> of water and its distribution across the Earth as driven by solar energy. Also called the <i>water cycle</i>.</dd>
@@ -524,7 +559,8 @@
 <dd class=""glossary"">A species that forms a group of strong competitors in a crowded environment and that has fewer but stronger offspring.</dd>
 "
 "<dt class=""glossary"" id=""kelp"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Kelp"" title=""Kelp"">kelp</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""keystone_species""></span><dt class=""glossary"" id=""keystone_species"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Keystone_species"" title=""Keystone species"">keystone species</a></dfn></dt>"|"
 <dd class=""glossary"">A species that has a disproportionate effect on its environment relative to its abundance. Such species affect many other organisms in an ecosystem and help to determine the types and numbers of various other species in a <a href=""https://en.wikipedia.org/wiki/Community_(ecology)"" title=""Community (ecology)"">community</a>.</dd>
@@ -536,10 +572,12 @@
 <dd class=""glossary"">An inland <a href=""https://en.wikipedia.org/wiki/Body_of_water"" title=""Body of water"">body of water</a> localized in a <a href=""https://en.wikipedia.org/wiki/Depression_(geology)"" title=""Depression (geology)"">basin</a> and often fed by a river.</dd>
 "
 "<dt class=""glossary"" id=""lake_ecosystem"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Lake_ecosystem"" title=""Lake ecosystem"">lake ecosystem</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""lake_stratification"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Lake_stratification"" title=""Lake stratification"">lake stratification</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""landscape_ecology""></span><dt class=""glossary"" id=""landscape_ecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Landscape_ecology"" title=""Landscape ecology"">landscape ecology</a></dfn></dt>"|"
 <dd class=""glossary"">An interdisciplinary branch of ecology combining aspects of ecology, <a href=""https://en.wikipedia.org/wiki/Botany"" title=""Botany"">botany</a>, <a href=""https://en.wikipedia.org/wiki/Biogeography"" title=""Biogeography"">biogeography</a>, <a href=""https://en.wikipedia.org/wiki/Physical_geography"" title=""Physical geography"">physical geography</a> and <a href=""https://en.wikipedia.org/wiki/Environmental_planning"" title=""Environmental planning"">environmental planning</a>.</dd>
@@ -563,7 +601,8 @@
 <dd class=""glossary"">The study of inland waters, often regarded as forming part of ecology or of <a href=""https://en.wikipedia.org/wiki/Environmental_science"" title=""Environmental science"">environmental science</a>.</dd>
 "
 "<span id=""lithosphere""></span><dt class=""glossary"" id=""lithosphere"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Lithosphere"" title=""Lithosphere"">lithosphere</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""logistic_curve"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Logistic_curve"" class=""mw-redirect"" title=""Logistic curve"">logistic curve</a></dfn></dt>"|"
 <dd class=""glossary"">An S-shaped curve that usually represents growth of a population of a given species.</dd>
@@ -623,13 +662,16 @@
 <dd class=""glossary"">Natural <a href=""https://en.wikipedia.org/wiki/Biotic_component"" title=""Biotic component"">biotic</a> and <a href=""https://en.wikipedia.org/wiki/Abiotic_component"" title=""Abiotic component"">abiotic</a> resources combined.</dd>
 "
 "<dt class=""glossary"" id=""natural_science"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Natural_science"" title=""Natural science"">natural science</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""natural_selection""></span><dt class=""glossary"" id=""natural_selection"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Natural_selection"" title=""Natural selection"">natural selection</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""nature"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Nature"" title=""Nature"">nature</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""negative_feedback_loop""></span><dt class=""glossary"" id=""negative_feedback_loop"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Negative_feedback_loop"" class=""mw-redirect"" title=""Negative feedback loop"">negative feedback loop</a></dfn></dt>"|"
 <dd class=""glossary"">A process in which the effects of a change in a system act to reduce or counteract the change. Negative feedback loops tend to promote stability and a settling to <a href=""https://en.wikipedia.org/wiki/List_of_types_of_equilibrium"" title=""List of types of equilibrium"">equilibrium</a>, reducing the effects of perturbations in the system. Compare <a href=""#positive_feedback_loop"">positive feedback loop</a>.</dd>
@@ -671,10 +713,12 @@
 <dd class=""glossary"">A vast body of <a href=""https://en.wikipedia.org/wiki/Seawater"" title=""Seawater"">salt water</a>. Oceans cover almost 75% of the Earth's surface.</dd>
 "
 "<dt class=""glossary"" id=""old_field"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Old_field_(ecology)"" title=""Old field (ecology)"">old field</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""oxygenation"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Oxygenation_(environmental)"" title=""Oxygenation (environmental)"">oxygenation</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""paleoecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Paleoecology"" title=""Paleoecology"">paleoecology</a></dfn></dt>"|"
 <dd class=""glossary"">A branch of ecology which uses data from <a href=""https://en.wikipedia.org/wiki/Fossil"" title=""Fossil"">fossils</a> to reconstruct ecosystems of the past.</dd>
@@ -698,28 +742,34 @@
 <dd class=""glossary"">The overall physical characteristics of a <a href=""https://en.wikipedia.org/wiki/Plant_community"" title=""Plant community"">plant community</a>.</dd>
 "
 "<span id=""phytoplankton""></span><dt class=""glossary"" id=""phytoplankton"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Phytoplankton"" title=""Phytoplankton"">phytoplankton</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""pioneer_species""></span><dt class=""glossary"" id=""pioneer_species"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pioneer_species"" title=""Pioneer species"">pioneer species</a></dfn></dt>"|"
 <dd class=""glossary"">A species that is the first to inhabit a previously unoccupied environment.</dd>
 "
 "<dt class=""glossary"" id=""plankton"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Plankton"" title=""Plankton"">plankton</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""plant"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Plant"" title=""Plant"">plant</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""plant_community""></span><dt class=""glossary"" id=""plant_community"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Plant_community"" title=""Plant community"">plant community</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""plant_litter"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Plant_litter"" title=""Plant litter"">plant litter</a></dfn></dt>"|"
 <dd class=""glossary"">The layer of dead plant material on the ground, providing a habitat to plants, <a href=""https://en.wikipedia.org/wiki/Microorganism"" title=""Microorganism"">microorganisms</a> and animals. It plays an important role in the <a href=""#nutrient_cycle"">nutrient cycle</a>.</dd>
 "
 "<dt class=""glossary"" id=""plant_nutrition"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Plant_nutrition"" title=""Plant nutrition"">plant nutrition</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""polar_climate"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Polar_climate"" title=""Polar climate"">polar climate</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""political_ecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Political_ecology"" title=""Political ecology"">political ecology</a></dfn></dt>"|"
 <dd class=""glossary"">A branch of ecology which studies how political and economic power affect ecosystems, and vice versa how <a href=""https://en.wikipedia.org/wiki/Environment_(biophysical)"" class=""mw-redirect"" title=""Environment (biophysical)"">environmental factors</a> influence social activity.</dd>
@@ -728,7 +778,8 @@
 <dd class=""glossary"">A type of <a href=""https://en.wikipedia.org/wiki/Fertilization"" class=""mw-redirect"" title=""Fertilization"">fertilization</a> in which <a href=""https://en.wikipedia.org/wiki/Pollen"" title=""Pollen"">pollen</a> grains are transported through the air from one <a href=""https://en.wikipedia.org/wiki/Seed_plant"" class=""mw-redirect"" title=""Seed plant"">seed plant</a> to the <a href=""https://en.wikipedia.org/wiki/Ovule"" title=""Ovule"">ovule</a>-bearing organs of another seed plant. This transport is helped by either wind, water, or animal assistance.</dd>
 "
 "<dt class=""glossary"" id=""pollinator_decline"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Pollinator_decline"" title=""Pollinator decline"">pollinator decline</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""population_density""></span><dt class=""glossary"" id=""population_density"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Population_density"" title=""Population density"">population density</a></dfn></dt>"|"
 <dd class=""glossary"">The number of individuals of a species living in a defined area.</dd>
@@ -746,10 +797,12 @@
 <dd class=""glossary"">A process in which the effects of a small change in a system include an increase in the magnitude of the change; ""A produces more of B, which in turn produces more of A"". Compare <a href=""#negative_feedback_loop"">negative feedback loop</a>.</dd>
 "
 "<dt class=""glossary"" id=""prairie"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Prairie"" title=""Prairie"">prairie</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""predation"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Predation"" title=""Predation"">predation</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""predator""></span><dt class=""glossary"" id=""predator"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Predator"" class=""mw-redirect"" title=""Predator"">predator</a></dfn></dt>"|"
 <dd class=""glossary"">An organism that lives by killing and consuming another living organism.</dd>
@@ -767,7 +820,8 @@
 <dd class=""glossary"">A type of <a href=""https://en.wikipedia.org/wiki/Mutualism_(biology)"" title=""Mutualism (biology)"">mutualism</a> without necessity.</dd>
 "
 "<dt class=""glossary"" id=""productivity"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Productivity_(ecology)"" title=""Productivity (ecology)"">productivity</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""quadrat"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Quadrat"" title=""Quadrat"">quadrat</a></dfn></dt>"|"
 <dd class=""glossary"">A rectangular plot of land extensively studied for its ecology. Often abbreviated as <i>quad</i>.</dd>
@@ -788,13 +842,16 @@
 <dd class=""glossary"">A branch of ecology which attempts to understand the ecological basis needed to restore impaired or damaged ecosystems.</dd>
 "
 "<dt class=""glossary"" id=""riparian_forest"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Riparian_forest"" title=""Riparian forest"">riparian forest</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""river_ecosystem"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/River_ecosystem"" title=""River ecosystem"">river ecosystem</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""root_microbiome"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Root_microbiome"" title=""Root microbiome"">root microbiome</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""r-selected_species"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/R-selected_species"" class=""mw-redirect"" title=""R-selected species"">r-selected species</a></dfn></dt>"|"
 <dd class=""glossary"">A species selected for its superiority in variable or unpredictable environments.</dd>
@@ -803,16 +860,19 @@
 <dd class=""glossary"">The flow of water over land from <a href=""https://en.wikipedia.org/wiki/Rain"" title=""Rain"">rain</a>, melting snow, or other sources.</dd>
 "
 "<dt class=""glossary"" id=""sand"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Sand"" title=""Sand"">sand</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""saprotrophic_nutrition"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Saprotrophic_nutrition"" title=""Saprotrophic nutrition"">saprotrophic nutrition</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""savanna"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Savanna"" title=""Savanna"">savanna</a></dfn></dt>"|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Tropics"" title=""Tropics"">tropical</a> or <a href=""https://en.wikipedia.org/wiki/Subtropics"" title=""Subtropics"">subtropical</a> <a href=""https://en.wikipedia.org/wiki/Grassland"" title=""Grassland"">grassland</a> ecosystem with trees, but without a closed <a href=""https://en.wikipedia.org/wiki/Canopy_(biology)"" title=""Canopy (biology)"">canopy</a>.</dd>
 "
 "<dt class=""glossary"" id=""scramble_competition"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Scramble_competition"" title=""Scramble competition"">scramble competition</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""secondary_succession"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Secondary_succession"" title=""Secondary succession"">secondary succession</a></dfn></dt>"|"
 <dd class=""glossary"">A stage of <a href=""#ecological_succession"">ecological succession</a> which occurs after the original <a href=""https://en.wikipedia.org/wiki/Community_(ecology)"" title=""Community (ecology)"">community</a> has been destroyed or disturbed, as with a <a href=""https://en.wikipedia.org/wiki/Wildfire"" title=""Wildfire"">forest fire</a>.</dd>
@@ -821,25 +881,30 @@
 <dd class=""glossary"">Individuals in a group acting together without planned direction.</dd>
 "
 "<dt class=""glossary"" id=""sessile"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Sessility_(motility)"" title=""Sessility (motility)"">sessile</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""sexual_selection"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Sexual_selection"" title=""Sexual selection"">sexual selection</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""sign_stimulus"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Sign_stimulus"" class=""mw-redirect"" title=""Sign stimulus"">sign stimulus</a></dfn></dt>"|"
 <dd class=""glossary"">A <a href=""#fixed_action_pattern"">fixed action pattern</a> such as a mating dance.</dd>
 "
 "<dt class=""glossary"" id=""signaler"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Signaler"" class=""mw-redirect"" title=""Signaler"">signaler</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""social_animal"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Social_animal"" class=""mw-redirect"" title=""Social animal"">social animal</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""social_behavior"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Social_behavior"" title=""Social behavior"">social behavior</a></dfn></dt>"|"
 <dd class=""glossary"">The behavior of an individual organism towards other members of the population of its species.</dd>
 "
 "<dt class=""glossary"" id=""social_parasite"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Parasitism#Social_parasites"" title=""Parasitism"">social parasite</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""sociality"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Sociality"" title=""Sociality"">sociality</a></dfn></dt>"|"
 <dd class=""glossary"">is the degree to which individuals in an animal population tend to associate in social groups and form cooperative societies.</dd>
@@ -851,7 +916,8 @@
 <dd class=""glossary"">A branch of ecology which studies the <a href=""https://en.wikipedia.org/wiki/Pedosphere"" title=""Pedosphere"">pedosphere</a>.</dd>
 "
 "<dt class=""glossary"" id=""soil_microbiology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Soil_microbiology"" title=""Soil microbiology"">soil microbiology</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""song_system"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Song_system"" class=""mw-redirect"" title=""Song system"">song system</a></dfn></dt>"|"
 <dd class=""glossary"">A series of discrete brain nuclei in <a href=""https://en.wikipedia.org/wiki/Songbird"" title=""Songbird"">songbirds</a> used to learn and produce certain sequences.</dd>
@@ -863,22 +929,27 @@
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Evolutionary"" class=""mw-redirect"" title=""Evolutionary"">evolutionary</a> process by which new biological species emerge from a common ancestor.</dd>
 "
 "<span id=""species_diversity""></span><dt class=""glossary"" id=""species_diversity"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Species_diversity"" title=""Species diversity"">species diversity</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""species_evenness""></span><dt class=""glossary"" id=""species_evenness"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Species_evenness"" title=""Species evenness"">species evenness</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""species_richness""></span><dt class=""glossary"" id=""species_richness"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Species_richness"" title=""Species richness"">species richness</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""spring_overturn"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Bottom_water"" title=""Bottom water"">spring overturn</a></dfn></dt>"|"
 <dd class=""glossary"">The mixing of lake water through the melting of ice cover, the warming of surface waters, <a href=""https://en.wikipedia.org/wiki/Convection"" title=""Convection"">convection</a> currents, and <a href=""https://en.wikipedia.org/wiki/Wind"" title=""Wind"">wind</a> action occurring in <a href=""https://en.wikipedia.org/wiki/Spring_(season)"" title=""Spring (season)"">spring</a>.</dd>
 "
 "<dt class=""glossary"" id=""steppe"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Steppe"" title=""Steppe"">steppe</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""sulfur_cycle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Sulfur_cycle"" title=""Sulfur cycle"">sulfur cycle</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""stream"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Stream"" title=""Stream"">stream</a></dfn></dt>"|"
 <dd class=""glossary"">A flowing-water ecosystem that starts out as a <a href=""https://en.wikipedia.org/wiki/Freshwater_spring"" class=""mw-redirect"" title=""Freshwater spring"">freshwater spring</a> or as melting <a href=""https://en.wikipedia.org/wiki/Snow"" title=""Snow"">snow</a>.</dd>
@@ -887,31 +958,39 @@
 <dd class=""glossary"">A graph showing the number or proportion of individuals surviving at each age for a given species.</dd>
 "
 "<span id=""symbiosis""></span><dt class=""glossary"" id=""symbiosis"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Symbiosis"" title=""Symbiosis"">symbiosis</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""symbiont""></span><dt class=""glossary"" id=""symbiont"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Symbiont"" class=""mw-redirect"" title=""Symbiont"">symbiont</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""synecology""></span><dt class=""glossary"" id=""synecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Community_ecology"" class=""mw-redirect"" title=""Community ecology"">synecology</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""systems_ecology""></span><dt class=""glossary"" id=""systems_ecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Systems_ecology"" title=""Systems ecology"">systems ecology</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""taylor&#39;s_law"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Taylor%27s_law"" title=""Taylor&#39;s law"">Taylor's law</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""temperate_deciduous_forest"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Temperate_deciduous_forest"" title=""Temperate deciduous forest"">temperate deciduous forest</a></dfn></dt>"|"
 <dd class=""glossary"">See <a href=""#deciduous_broadleaf_forest"">deciduous broadleaf forest</a>.</dd>
 "
 "<dt class=""glossary"" id=""temperate_grasslands,_savannas,_and_shrublands"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Temperate_grasslands,_savannas,_and_shrublands"" title=""Temperate grasslands, savannas, and shrublands"">temperate grasslands, savannas, and shrublands</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""terrestrial_ecology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Terrestrial_ecology"" class=""mw-redirect"" title=""Terrestrial ecology"">terrestrial ecology</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""terrestrial_ecoregion"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Terrestrial_ecoregion"" class=""mw-redirect"" title=""Terrestrial ecoregion"">terrestrial ecoregion</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""territory"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Territory_(animal)"" title=""Territory (animal)"">territory</a></dfn></dt>"|"
 <dd class=""glossary"">An area that one or more individual organisms defend against <a href=""https://en.wikipedia.org/wiki/Competition_(biology)"" title=""Competition (biology)"">competition</a> from other organisms.</dd>
@@ -929,13 +1008,15 @@
 <dd class=""glossary"">Any delineation between <a href=""#habitat"">habitats</a> in which <a href=""https://en.wikipedia.org/wiki/Tree"" title=""Tree"">trees</a> are capable of growing and in which they are not capable of growing. Tree lines are found at the edges of habitats with suitable conditions for tree growth and development; beyond the tree line, trees cannot tolerate the harsher environmental conditions, usually because of very cold temperatures or a lack of sufficient moisture.</dd>
 "
 "<dt class=""glossary"" id=""trophic_cascade"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Trophic_cascade"" title=""Trophic cascade"">trophic cascade</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""trophic_level""></span><dt class=""glossary"" id=""trophic_level"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Trophic_level"" title=""Trophic level"">trophic level</a></dfn></dt>"|"
 <dd class=""glossary"">The position of an organism on the <a href=""#food_chain"">food chain</a>: what it eats, and what eats it.</dd>
 "
 "<dt class=""glossary"" id=""tropics"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Tropics"" title=""Tropics"">tropics</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""tropical_rain_forest"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Tropical_rain_forest"" class=""mw-redirect"" title=""Tropical rain forest"">tropical rain forest</a></dfn></dt>"|"
 <dd class=""glossary"">A <a href=""#biome"">biome</a> characterized by regular, heavy rainfall, a humidity of at least 80 percent, and great <a href=""https://en.wikipedia.org/wiki/Biodiversity"" title=""Biodiversity"">biodiversity</a>.</dd>
@@ -965,10 +1046,12 @@
 <dd class=""glossary"">See <a href=""#plant_community"">plant community</a>.</dd>
 "
 "<dt class=""glossary"" id=""verhulst_equation"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Verhulst_equation"" class=""mw-redirect"" title=""Verhulst equation"">Verhulst equation</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""virology"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Virology"" title=""Virology"">virology</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""virus"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Virus"" title=""Virus"">virus</a></dfn></dt>"|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Microscopic_scale"" title=""Microscopic scale"">microscopic</a> obligate intracellular <a href=""#parasite"">parasite</a> which infects and replicates exclusively within the living <a href=""https://en.wikipedia.org/wiki/Cell_(biology)"" title=""Cell (biology)"">cells</a> of another organism.</dd>
@@ -977,16 +1060,19 @@
 <dd class=""glossary"">A warning signal that a prey species uses to advertise its unprofitability to potential predator species. Also called <i>aposematism</i>.</dd>
 "
 "<dt class=""glossary"" id=""water_column"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Water_column"" title=""Water column"">water column</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""water_cycle"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Water_cycle"" title=""Water cycle"">water cycle</a></dfn></dt>"|"
 <dd class=""glossary"">The non-stop circulation of water on, above, and below Earth's surface. At different times during the cycle, water changes between its different <a href=""https://en.wikipedia.org/wiki/State_of_matter"" title=""State of matter"">states</a>: liquid, vapor and ice. Also called <i><a href=""#hydrologic_cycle"">hydrologic cycle</a></i>.</dd>
 "
 "<dt class=""glossary"" id=""water_pollution"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Water_pollution"" title=""Water pollution"">water pollution</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""water_stagnation"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Water_stagnation"" title=""Water stagnation"">water stagnation</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""water_vapor"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Water_vapor"" title=""Water vapor"">water vapor</a></dfn></dt>"|"
 <dd class=""glossary"">The gaseous state of water.</dd>
@@ -1004,10 +1090,12 @@
 <dd class=""glossary"">A type of ecosystem consisting of land permanently or seasonally saturated with water; the habitat of <a href=""#aquatic_plant"">aquatic plants</a>.</dd>
 "
 "<span id=""wildfire""></span><dt class=""glossary"" id=""wildfire"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Wildfire"" title=""Wildfire"">wildfire</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<span id=""wildlife""></span><dt class=""glossary"" id=""wildlife"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Wildlife"" title=""Wildlife"">wildlife</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<dt class=""glossary"" id=""wildlife_corridor"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Wildlife_corridor"" title=""Wildlife corridor"">wildlife corridor</a></dfn></dt>"|"
 <dd class=""glossary"">A strip of land intended to facilitate the movement of <a href=""https://en.wikipedia.org/wiki/Wildlife"" title=""Wildlife"">wildlife</a> species between disconnected areas of their <a href=""https://en.wikipedia.org/wiki/Habitat"" title=""Habitat"">habitat</a>.</dd>
@@ -1031,5 +1119,6 @@
 <dd class=""glossary"">A powdery, poisonous, yellow substance reported dropping from the air in the eastern parts of China and Asia and found to be the excrement of wild honeybees contaminated by a <a href=""https://en.wikipedia.org/wiki/Fungus"" title=""Fungus"">fungal</a> toxin.</dd>
 "
 "<dt class=""glossary"" id=""zooplankton"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Zooplankton"" title=""Zooplankton"">zooplankton</a></dfn></dt>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Ecology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_ecology"">""Glossary of ecology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
